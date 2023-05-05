@@ -1,0 +1,30 @@
+label {
+  name: "Alert_Seek"
+  label_id: 1
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "Flapping"
+  label_id: 2
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "Foraging"
+  label_id: 3
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "Preening"
+  label_id: 4
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "Walking"
+  label_id: 5
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "Other"
+  label_id: 6
+  label_type: PERSON_MOVEMENT
+}

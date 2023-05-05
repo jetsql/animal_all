@@ -1,0 +1,6 @@
+1: Alert_Seek
+2: Flapping
+3: Foraging
+4: Preening
+5: Walking
+6: Other
